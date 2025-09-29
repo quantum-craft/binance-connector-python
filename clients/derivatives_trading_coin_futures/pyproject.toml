@@ -1,3 +1,7 @@
+[project]
+name = "binance-sdk-derivatives-trading-coin-futures"
+version = "2.3.0"
+
 [tool.poetry]
 name = "binance-sdk-derivatives-trading-coin-futures"
 version = "2.3.0"
